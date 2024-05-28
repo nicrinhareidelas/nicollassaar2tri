@@ -1,0 +1,46 @@
+body {background-color: dodgerblue;
+}
+.p1{font-size: 400%;
+text-align: center;
+background-color: blueviolet;
+border-color: brown;
+border-width: 6pc;
+border-style: double
+margin-left: 30%;
+margin-right: 25%;
+padding-left: 20%;
+
+}
+.p2{font-size: 150%;
+    text-align: center;
+    background-color: rgb(124, 20, 124);
+    border-color: rgb(136, 158, 75);
+    border-width: 6pc;
+    border-style: double
+    margin-left: 64%;
+    margin-right: 7%;
+    padding-left: 20%;
+    
+}
+    .p3{text-align: center;
+        font-size: 200%;
+        background-color: rgb(247, 83, 83);
+        border-color: rgb(31, 41, 5);
+        border-width: 6pc;
+        border-style: double
+        margin-left: 8%;
+        margin-right: 55%;
+        padding-left: 10%;
+        
+    }
+    .p4{text-align: center;
+        font-size: 250%;
+        background-color: rgb(41, 38, 87);
+        border-color: rgb(210, 140, 228);
+        border-width: 6pc;
+        border-style:double 
+        margin-left: 22%;
+        margin-right: 66%;
+        padding-left: 20%;
+        
+    }
